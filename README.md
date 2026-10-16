@@ -20,6 +20,10 @@ Estudante de programação aprendendo Lua e explorando o mundo Linux.
 - Linux (amo)
 - GitHub (aprendendo e usando)
 
-<img width="600" height="338" alt="1000312419" src="https://github.com/user-attachments/assets/1223cdc2-993f-4bc0-9300-d2ab75ff7daa" />
+
+### Linguagens que mais uso
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=73ibuprofeno&layout=compact&theme=dark)](https://github.com/73ibuprofeno)
+
 
 ###### Aprendendo, experimentando e criando projetos.
