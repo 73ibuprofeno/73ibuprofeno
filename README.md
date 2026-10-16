@@ -20,6 +20,6 @@ Estudante de programação aprendendo Lua e explorando o mundo Linux.
 - Linux (amo)
 - GitHub (aprendendo e usando)
 
-![banner](https://file.garden/aWxJgpylm2AE_WmK/725ac76b22872269f37b6deef428f9b7.gif)
+<img width="600" height="338" alt="1000312419" src="https://github.com/user-attachments/assets/1223cdc2-993f-4bc0-9300-d2ab75ff7daa" />
 
 ###### Aprendendo, experimentando e criando projetos.
