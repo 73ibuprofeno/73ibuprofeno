@@ -1,3 +1,5 @@
+![banner](https://file.garden/aWxJgpylm2AE_WmK/011b787a19e825d5b4966962f0e3188a.jpg)
+
 # 73ibuprofeno
 
 Estudante de programação aprendendo Lua e explorando o mundo Linux.
