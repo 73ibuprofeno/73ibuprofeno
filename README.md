@@ -1,4 +1,4 @@
-![banner](https://file.garden/aWxJgpylm2AE_WmK/011b787a19e825d5b4966962f0e3188a.jpg)
+![banner](https://file.garden/aWxJgpylm2AE_WmK/a2fa3bd37373e18b7142e85c91ecabf3.jpg)
 
 # 73ibuprofeno
 
