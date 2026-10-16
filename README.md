@@ -1,4 +1,4 @@
-![banner](https://file.garden/aWxJgpylm2AE_WmK/4b7bab511f7240fbad151586c1c6a94e.jpg)
+<img width="600" height="211" alt="1000312422" src="https://github.com/user-attachments/assets/91beed7e-df26-4582-ad46-0d1ac3438fd2" />
 
 # 73ibuprofeno
 
