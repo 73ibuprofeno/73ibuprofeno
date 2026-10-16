@@ -20,4 +20,6 @@ Estudante de programação aprendendo Lua e explorando o mundo Linux.
 - Linux (amo)
 - GitHub (aprendendo e usando)
 
+[nyan_cat](https://file.garden/aWxJgpylm2AE_WmK/725ac76b22872269f37b6deef428f9b7.gif)
+
 ###### Aprendendo, experimentando e criando projetos.
