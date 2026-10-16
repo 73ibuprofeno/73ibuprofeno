@@ -16,10 +16,10 @@ Estudante de programação aprendendo Lua e explorando o mundo Linux.
 
 ### Tecnologias
 
-- Lua (amo) https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg
-- Linux (amo)
-- VsCodium (uso pra criar e editar meus códigos)
-- GitHub (aprendendo e usando)
+- Lua (amo) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" />
+- Linux (amo) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+- VsCodium (uso pra criar e editar meus códigos) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" width="40" height="40" alt="VSCodium" />
+- GitHub (aprendendo e usando) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 
 ### Linguagens que mais uso
